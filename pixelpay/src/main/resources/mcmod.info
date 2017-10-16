@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixelpay",
+  "name": "Pixelmon Payment System",
+  "description": "Pixelmon Payment System",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["pigneedle"],
+  "credits": "pigneedle",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
